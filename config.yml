@@ -1,0 +1,27 @@
+title: EnterpriseLab Research
+description: Anonymous blog for EnterpriseLab paper - Benchmark for Agentic AI in Enterprise Environments
+baseurl: ""
+url: ""
+theme: minima
+
+# Author (keep anonymous for double-blind review)
+author:
+  name: Anonymous Researcher
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
