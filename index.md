@@ -3,7 +3,7 @@ title: Home
 EnterpriseLab: A Full-Stack Platform for developing and deploying agents in Enterprises
 Welcome to the anonymous blog for our EnterpriseLab paper submission.
 
-Overview
+Overviews
 EnterpriseLab is a comprehensive benchmark designed to evaluate agentic AI systems in realistic enterprise environments. Our benchmark includes:
 
 Multi-domain Task Coverage: Finance, HR, Operations, IT, and Customer Service
