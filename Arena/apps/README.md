@@ -48,7 +48,11 @@ To start **all application servers at once**, run the following command from thi
 
 ```bash
 ./start_all_servers.sh
+```
+
 
 Ensure the script has execute permissions:
 
+```bash
 chmod +x start_all_servers.sh
+```
