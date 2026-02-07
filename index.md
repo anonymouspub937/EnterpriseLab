@@ -21,15 +21,28 @@ title: EnterpriseLab - Full-Stack Platform for Enterprise AI Agents
 
   <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
     <a href="#" style="background: white; color: #667eea; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: 600;">📄 Paper (Coming Soon)</a>
-    <a href="#" style="background: white; color: #667eea; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: 600;">💻 GitHub (Coming Soon)</a>
-    <a href="#" style="background: white; color: #667eea; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: 600;">🎥 Demo Videos</a>
+    <a href="https://github.com/anonymouspub123/EnterpriseLab" style="background: white; color: #667eea; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: 600;">💻 GitHub</a>
     <a href="#" style="background: white; color: #667eea; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: 600;">📊 Dataset</a>
   </div>
 </header>
 
+<!-- Navigation Menu -->
+<div class="nav-menu" style="background: white; padding: 20px; margin-bottom: 30px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); position: sticky; top: 0; z-index: 100;">
+  <ul style="list-style: none; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 0; margin: 0;">
+    <li><a href="#abstract" style="color: #667eea; text-decoration: none; font-weight: 500;">📄 Abstract</a></li>
+    <li><a href="#introduction" style="color: #667eea; text-decoration: none; font-weight: 500;">💡 Introduction</a></li>
+    <li><a href="#platform" style="color: #667eea; text-decoration: none; font-weight: 500;">⚙️ Platform</a></li>
+    <li><a href="#enterprisearena" style="color: #667eea; text-decoration: none; font-weight: 500;">🏢 EnterpriseArena</a></li>
+    <li><a href="#results" style="color: #667eea; text-decoration: none; font-weight: 500;">📊 Results</a></li>
+    <li><a href="#demos" style="color: #667eea; text-decoration: none; font-weight: 500;">🎥 Demos</a></li>
+    <li><a href="#citation" style="color: #667eea; text-decoration: none; font-weight: 500;">📖 Citation</a></li>
+  </ul>
+</div>
+
 ---
 
 ## Abstract
+{: #abstract}
 
 Deploying AI agents in enterprise environments requires balancing capability with data sovereignty and cost constraints. While frontier models like GPT-4o demonstrate strong reasoning abilities, their high inference costs ($3-$15 per million tokens) and data privacy concerns hinder enterprise adoption.
 
@@ -86,6 +99,7 @@ We introduce **EnterpriseLab**, a full-stack platform that unifies tool integrat
 ---
 
 ## Introduction
+{: #introduction}
 
 ### The Enterprise AI Challenge
 
@@ -121,6 +135,7 @@ EnterpriseLab addresses these challenges by providing a unified platform that in
 ---
 
 ## The EnterpriseLab Platform
+{: #platform}
 
 <div style="text-align: center; margin: 30px 0; padding: 20px; background: #f8f9fa; border-radius: 8px;">
   <img src="assets/images/platform-architecture.png" alt="EnterpriseLab Architecture" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
@@ -215,6 +230,7 @@ Group Relative Policy Optimization adapted for agentic settings:
 ---
 
 ## EnterpriseArena: Benchmark Instantiation
+{: #enterprisearena}
 
 EnterpriseArena demonstrates EnterpriseLab's capabilities through a comprehensive benchmark environment with 15 specialized MCP servers and 500 expert-curated tasks.
 
@@ -324,6 +340,7 @@ Tasks developed through structured reviews with 9 domain experts across Software
 ---
 
 ## Results and Analysis
+{: #results}
 
 ### Performance Across Benchmarks
 
@@ -466,7 +483,45 @@ EnterpriseLab and EnterpriseArena uniquely address multi-application enterprise 
 
 ---
 
+## Interactive Demos
+{: #demos}
+
+Watch EnterpriseLab agents in action performing complex enterprise workflows:
+
+<div style="background: #f8f9fa; padding: 40px; border-radius: 8px; margin: 30px 0; border: 2px solid #e0e0e0;">
+  <h3 style="color: #667eea; text-align: center; margin-bottom: 30px;">🎥 Task Demonstration Videos</h3>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 30px; margin-top: 30px;">
+    
+    <div style="background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <h4 style="color: #764ba2; margin-top: 0; margin-bottom: 15px;">📋 Task Demo 1</h4>
+      <p style="color: #666; margin-bottom: 20px;">Multi-step enterprise workflow demonstration showing agent orchestration across HR, document management, and communication systems.</p>
+      <div style="background: #f4f4f4; padding: 20px; border-radius: 8px; text-align: center; margin-bottom: 15px;">
+        <p style="color: #999; font-style: italic;">Video link will be added here</p>
+        <p style="color: #999; font-size: 0.9em; margin-top: 10px;">(YouTube link coming soon)</p>
+      </div>
+    </div>
+    
+    <div style="background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <h4 style="color: #764ba2; margin-top: 0; margin-bottom: 15px;">📋 Task Demo 2</h4>
+      <p style="color: #666; margin-bottom: 20px;">Complex cross-functional workflow demonstrating integration of version control, project management, and notification systems.</p>
+      <div style="background: #f4f4f4; padding: 20px; border-radius: 8px; text-align: center; margin-bottom: 15px;">
+        <p style="color: #999; font-style: italic;">Video link will be added here</p>
+        <p style="color: #999; font-size: 0.9em; margin-top: 10px;">(YouTube link coming soon)</p>
+      </div>
+    </div>
+    
+  </div>
+  
+  <p style="text-align: center; margin-top: 30px; color: #666;">
+    <em>These demonstrations showcase EnterpriseLab's ability to handle realistic enterprise scenarios involving multiple tools and stateful decision-making.</em>
+  </p>
+</div>
+
+---
+
 ## Citation
+{: #citation}
 
 If you use EnterpriseLab or EnterpriseArena in your research, please cite our work:
 
@@ -489,7 +544,7 @@ If you use EnterpriseLab or EnterpriseArena in your research, please cite our wo
     <li>On-premises deployment for data sovereignty</li>
     <li>Continuous evaluation and adaptation</li>
   </ul>
-  <p style="margin-top: 20px;"><strong>Code, data, and demo videos coming soon!</strong></p>
+  <p style="margin-top: 20px;"><strong>Visit our <a href="https://github.com/anonymouspub123/EnterpriseLab" style="color: #667eea;">GitHub repository</a> to get started!</strong></p>
 </div>
 
 ---
@@ -499,7 +554,7 @@ If you use EnterpriseLab or EnterpriseArena in your research, please cite our wo
   <p>Full-Stack Platform for Enterprise AI Agents</p>
   <div style="margin: 20px 0;">
     <a href="#" style="color: #667eea; margin: 0 15px;">Paper (Coming Soon)</a>
-    <a href="#" style="color: #667eea; margin: 0 15px;">GitHub</a>
+    <a href="https://github.com/anonymouspub123/EnterpriseLab" style="color: #667eea; margin: 0 15px;">GitHub</a>
     <a href="#" style="color: #667eea; margin: 0 15px;">Dataset</a>
     <a href="#" style="color: #667eea; margin: 0 15px;">Documentation</a>
   </div>
@@ -508,3 +563,4 @@ If you use EnterpriseLab or EnterpriseArena in your research, please cite our wo
     © 2026 EnterpriseLab. Preliminary work under review.
   </p>
 </div>
+
