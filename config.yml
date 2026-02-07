@@ -1,15 +1,19 @@
-title: EnterpriseLab Research
-description: Anonymous blog for EnterpriseLab paper - Benchmark for Agentic AI in Enterprise Environments
+title: EnterpriseLab
+description: Full-Stack Platform for Developing and Deploying Agents in Enterprises
 baseurl: ""
-url: ""
-theme: minima
+url: "https://anonymouspub937.github.io/EnterpriseLab"
+
+# Theme - remove minima, we're using custom CSS
+# theme: minima  # Comment this out or remove it
 
 # Author (keep anonymous for double-blind review)
 author:
-  name: Anonymous Researcher
+  name: Anonymous Authors
 
 # Build settings
 markdown: kramdown
+
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -25,3 +29,15 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - vendor
+
+# Important: Tell Jekyll to process SCSS files
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+# Kramdown settings for better table rendering
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
