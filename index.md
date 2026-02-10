@@ -496,18 +496,22 @@ Watch EnterpriseLab agents in action performing complex enterprise workflows:
     <div style="background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
       <h4 style="color: #764ba2; margin-top: 0; margin-bottom: 15px;">📋 Task Demo 1</h4>
       <p style="color: #666; margin-bottom: 20px;">Multi-step enterprise workflow demonstration showing agent orchestration across HR, document management, and communication systems.</p>
-      <div style="background: #f4f4f4; padding: 20px; border-radius: 8px; text-align: center; margin-bottom: 15px;">
-        <p style="color: #999; font-style: italic;">Video link will be added here</p>
-        <p style="color: #999; font-size: 0.9em; margin-top: 10px;">(YouTube link coming soon)</p>
+      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+                src="https://youtu.be/m2QUq_p2D7o" 
+                allowfullscreen>
+        </iframe>
       </div>
     </div>
     
     <div style="background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
       <h4 style="color: #764ba2; margin-top: 0; margin-bottom: 15px;">📋 Task Demo 2</h4>
       <p style="color: #666; margin-bottom: 20px;">Complex cross-functional workflow demonstrating integration of version control, project management, and notification systems.</p>
-      <div style="background: #f4f4f4; padding: 20px; border-radius: 8px; text-align: center; margin-bottom: 15px;">
-        <p style="color: #999; font-style: italic;">Video link will be added here</p>
-        <p style="color: #999; font-size: 0.9em; margin-top: 10px;">(YouTube link coming soon)</p>
+      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+                src="https://youtu.be/_KgV8-q-Hwc" 
+                allowfullscreen>
+        </iframe>
       </div>
     </div>
     
