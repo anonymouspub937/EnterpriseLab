@@ -498,7 +498,7 @@ Watch EnterpriseLab agents in action performing complex enterprise workflows:
       <p style="color: #666; margin-bottom: 20px;">Multi-step enterprise workflow demonstration showing agent orchestration across HR, document management, and communication systems.</p>
       <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
-                src="https://youtu.be/m2QUq_p2D7o" 
+                src="https://www.youtube.com/embed/m2QUq_p2D7o" 
                 allowfullscreen>
         </iframe>
       </div>
@@ -509,7 +509,7 @@ Watch EnterpriseLab agents in action performing complex enterprise workflows:
       <p style="color: #666; margin-bottom: 20px;">Complex cross-functional workflow demonstrating integration of version control, project management, and notification systems.</p>
       <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
-                src="https://youtu.be/_KgV8-q-Hwc" 
+                src="https://www.youtube.com/embed/_KgV8-q-Hwc" 
                 allowfullscreen>
         </iframe>
       </div>
