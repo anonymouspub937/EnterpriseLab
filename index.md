@@ -533,7 +533,7 @@ If you use EnterpriseLab or EnterpriseArena in your research, please cite our wo
 @inproceedings{anonymousauthors2026enterpriselab,
     title = {EnterpriseLab: A Full-Stack Platform for developing and deploying agents in Enterprises},
     author = {Anonymous Authors},
-    booktitle = {Preliminary work. Under review by the International Conference on Machine Learning (ICML)},
+    booktitle = {Under review at the Conference on Neural Information Processing Systems (NeurIPS)},
     year = {2026},
     note = {Do not distribute}
 }
