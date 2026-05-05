@@ -21,8 +21,8 @@ title: EnterpriseLab - Full-Stack Platform for Enterprise AI Agents
 
   <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
     <a href="#" style="background: white; color: #667eea; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: 600;">📄 Paper (Coming Soon)</a>
-    <a href="https://anonymous.4open.science/r/EnterpriseLab-51F4" style="background: white; color: #667eea; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: 600;">💻 GitHub</a>
-    <a href="https://anonymous.4open.science/r/EnterpriseLab-51F4/Data/" style="background: white; color: #667eea; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: 600;">📊 Dataset</a>
+    <a href="https://anonymous.4open.science/r/EnterpriseLab-C322/" style="background: white; color: #667eea; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: 600;">💻 GitHub</a>
+    <a href="https://anonymous.4open.science/r/EnterpriseLab-C322/Data/" style="background: white; color: #667eea; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: 600;">📊 Dataset</a>
   </div>
 </header>
 
@@ -548,7 +548,7 @@ If you use EnterpriseLab or EnterpriseArena in your research, please cite our wo
     <li>On-premises deployment for data sovereignty</li>
     <li>Continuous evaluation and adaptation</li>
   </ul>
-  <p style="margin-top: 20px;"><strong>Visit our <a href="https://anonymous.4open.science/r/EnterpriseLab-51F4" style="color: #667eea;">GitHub repository</a> to get started!</strong></p>
+  <p style="margin-top: 20px;"><strong>Visit our <a href="https://anonymous.4open.science/r/EnterpriseLab-C322/" style="color: #667eea;">GitHub repository</a> to get started!</strong></p>
 </div>
 
 ---
@@ -558,7 +558,7 @@ If you use EnterpriseLab or EnterpriseArena in your research, please cite our wo
   <p>Full-Stack Platform for Enterprise AI Agents</p>
   <div style="margin: 20px 0;">
     <a href="#" style="color: #667eea; margin: 0 15px;">Paper (Coming Soon)</a>
-    <a href="https://anonymous.4open.science/r/EnterpriseLab-51F4" style="color: #667eea; margin: 0 15px;">GitHub</a>
+    <a href="https://anonymous.4open.science/r/EnterpriseLab-C322/" style="color: #667eea; margin: 0 15px;">GitHub</a>
     <a href="#" style="color: #667eea; margin: 0 15px;">Dataset</a>
     <a href="#" style="color: #667eea; margin: 0 15px;">Documentation</a>
   </div>
