@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EnterpriseLab - Full-Stack Platform for Enterprise AI Agents
+title: EnterpriseLab: A Closed-Loop Platform for Specializing Small Models for Enterprise Workflows
 ---
 
 <header style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 60px 40px; text-align: center; border-radius: 8px; margin-bottom: 40px;">
