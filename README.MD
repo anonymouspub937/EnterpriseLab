@@ -1,1 +1,1 @@
-## EnterpriseLab: A Full-Stack Platform for Developing and Deploying Agents in Enterprises environment.
+## EnterpriseLab: A Closed-Loop Platform for Specializing Small Models for Enterprise Workflows
