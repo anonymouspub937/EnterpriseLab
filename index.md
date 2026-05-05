@@ -555,7 +555,7 @@ If you use EnterpriseLab or EnterpriseArena in your research, please cite our wo
 
 <div style="text-align: center; padding: 40px 20px; background: #333; color: white; margin-top: 60px; border-radius: 8px;">
   <h3>EnterpriseLab</h3>
-  <p>Full-Stack Platform for Enterprise AI Agents</p>
+  <p>A Closed-Loop Platform for Specializing Small Models for Enterprise Workflows</p>
   <div style="margin: 20px 0;">
     <a href="#" style="color: #667eea; margin: 0 15px;">Paper (Coming Soon)</a>
     <a href="https://anonymous.4open.science/r/EnterpriseLab-C322/" style="color: #667eea; margin: 0 15px;">GitHub</a>
