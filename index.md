@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EnterpriseLab- A Closed-Loop Platform for Specializing Small Models for Enterprise Workflows
+title: EnterpriseLab- Full-Stack Platform for developing and deploying agents in Enterprises
 ---
 
 <header style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 60px 40px; text-align: center; border-radius: 8px; margin-bottom: 40px;">
@@ -555,7 +555,7 @@ If you use EnterpriseLab or EnterpriseArena in your research, please cite our wo
 
 <div style="text-align: center; padding: 40px 20px; background: #333; color: white; margin-top: 60px; border-radius: 8px;">
   <h3>EnterpriseLab</h3>
-  <p>A Closed-Loop Platform for Specializing Small Models for Enterprise Workflows</p>
+  <p> Full-Stack Platform for developing and deploying agents in Enterprises</p>
   <div style="margin: 20px 0;">
     <a href="#" style="color: #667eea; margin: 0 15px;">Paper (Coming Soon)</a>
     <a href="https://anonymous.4open.science/r/EnterpriseLab-C322/" style="color: #667eea; margin: 0 15px;">GitHub</a>
